@@ -1,0 +1,19 @@
+{
+  "name": "cryptoseal",
+  "version": "0.0.0",
+  "description": "Find CryptoSeal at https://www.npmjs.com/package/crypto-seal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hMihaiDavid/js-cryptoseal-redirect.git"
+  },
+  "author": "Horia Mihai David",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hMihaiDavid/js-cryptoseal-redirect/issues"
+  },
+  "homepage": "https://github.com/hMihaiDavid/js-cryptoseal-redirect#readme"
+}
